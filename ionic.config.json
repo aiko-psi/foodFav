@@ -1,5 +1,7 @@
 {
   "name": "foodFav",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
